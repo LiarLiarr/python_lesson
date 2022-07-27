@@ -1,0 +1,1 @@
+print("hello\n \"my\n love")
